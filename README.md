@@ -32,7 +32,6 @@ This project is a basic flight controller for RC planes using an ESP32. It can r
 5. Uses compass to steer toward target heading.
 
 ## Notes
-- Compass must be calibrated manually.
 - No altitude hold yet.
 - No aileron control, just rudder.
 - For stable planes only.
